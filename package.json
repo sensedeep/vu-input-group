@@ -1,0 +1,19 @@
+{
+    "name": "vu-input-group",
+    "version": "1.0.0",
+    "main": "VuInputGroup.vue",
+    "repository": "https://github.com/sensedeep/vu-input-group.git",
+    "dependencies": {
+        "sensedeep/vu-input": "~1"
+    },
+    "licenses": [
+        {
+            "type": "GPL",
+            "url": "http://www.gnu.org/licenses/gpl-2.0.html"
+        },
+        {
+            "type": "Commercial",
+            "url": "https://www.sensedeep.com/licensing/"
+        }
+    ]
+}
