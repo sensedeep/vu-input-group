@@ -2,6 +2,8 @@
     VuInputGroup.js - Vue input directive
 
     <vu-input-group v-model="value" schema="schema" fields="Array | string">
+
+    Copyright (c) SenseDeep. All Rights Reserved.
 -->
 <template>
     <div class="vu-input-group">
